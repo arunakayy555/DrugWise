@@ -1,0 +1,12 @@
+/*
+
+folder structure for backend that we are following
+backend/
+ ├── common/
+ │    ├── configs.js      # loads env vars into config object
+ │    ├── db.js           # creates pool + query executor
+ ├── index.js             # main entry point (Express server)
+ ├── .env                 # DB credentials, server port
+ └── package.json
+
+*/

@@ -1,0 +1,5 @@
+/*
+'use client'->default, components r server components by default - CANNOT use client side  (useState, useEffect)
+
+=> 'use client' tells next.js that it's a client component. it'll run in the browser
+*/
